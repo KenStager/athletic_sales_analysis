@@ -45,10 +45,10 @@ To replicate or extend this analysis:
 3. Open the Jupyter Notebook and run the cells to see the analysis steps and results.
 
 ## Contributors
-- [Your Name]
+- Ken Stager
 
 ## Acknowledgements
 This analysis is part of the Columbia University AI Bootcamp.
 
 ## Contact Information
-For any additional questions or feedback, please contact [Your Email].
+For any additional questions or feedback, don't hesitate to get in touch with kenstager@hotmail.com.
